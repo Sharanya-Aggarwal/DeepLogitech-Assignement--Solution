@@ -4,31 +4,8 @@ The Python script runs a local server on port 7000. When you visit http://localh
 
 OUTPUT is of this form:
 
-[
-  {
-    "title": "In D.C., Start of School Meets Trump Takeover",
-    "link": "https://time.com/7311513/trump-washington-dc-immigration-school-national-guard/"
-  },
-  {
-    "title": "'I’m Afraid:' What U.S. Aid Cuts Mean for the Women of Afghanistan",
-    "link": "https://time.com/7310744/afghanistan-us-aid-cuts-maternal-health/"
-  },
-  {
-    "title": "Trump Threatens 'Complete Federal Takeover' of Washington, D.C.",
-    "link": "https://time.com/7311556/trump-threatens-dc-federal-takeover-crime-figures-dispute/"
-  },
-  {
-    "title": "The Heavy Cost of Using Weight-Loss Drugs to Get Skinny",
-    "link": "https://time.com/7311517/cost-weight-loss-drugs-skinny/"
-  },
-  {
-    "title": "1 in 30 U.S. Teens Identify as Transgender",
-    "link": "https://time.com/7311082/transgender-youth-america-data-trump/"
-  },
-  {
-    "title": "7 Ways to Soothe Your Nighttime Anxiety",
-    "link": "https://time.com/7311043/how-to-treat-anxiety-at-night-racing-thoughts/"
-  }
-]
+<img width="858" height="557" alt="image" src="https://github.com/user-attachments/assets/2d65675f-9ed8-43aa-b74f-da03836ca432" />
+
+
 
 These are the main headlines. As the site has been upated, there was no latest-stories section as mentioned in Assignment hence , I used the main headlines and stories that were stored as static HTML and rendered first six queries.
